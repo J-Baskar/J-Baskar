@@ -2,7 +2,7 @@
 - 👀 to become a software developer 
 - 🌱 DSA 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...baskar141114@gmail.com 
 
 <!---
 J-Baskar/J-Baskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
