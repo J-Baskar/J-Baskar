@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @J-Baskar
 - 👀 i am interested in, become a full-stack developer 
-- 🌱 currently learning DSA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...baskar141114@gmail.com 
 
